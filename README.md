@@ -2,7 +2,7 @@
 
 Aplikacja do czytania Biblii z funkcją zamiany tekstu na mowę i śledzeniem przeczytanych wersetów, zaprojektowana, aby pomóc Ci w końcu skończyć Biblię.
 
-![GUI Czytelnika Biblii](https://i.imgur.com/2RmgN7t.png)
+![GUI Czytelnika Biblii](https://i.imgur.com/vLoN8Re.png)
 
 ## Funkcje
 - **Tekst na mowę:** Czytaj wersety na głos dzięki wysokiej jakości zamianie tekstu na mowę.
